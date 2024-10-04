@@ -1,0 +1,1 @@
+{"name": "Ns200", "description": "bile", "Price": 400000, "seller": "aryush"}|{"name": "Tesla", "description": "electric car", "Price": 18000000, "seller": "aryush"}|{"name": "Baltra", "description": "table fan", "Price": 3000, "seller": "aryush"}

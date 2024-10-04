@@ -1,0 +1,1 @@
+{"aryush": {"password": "khatri", "type": "seller"}}|{"ritisha": {"password": "thapa", "type": "buyer"}}|{"don": {"password": "don123", "type": "seller"}}|{"bibek": {"password": "khadka", "type": "buyer"}}
