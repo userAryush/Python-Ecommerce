@@ -1,2 +1,2 @@
-# Simple Eccomerce Project
+# Simple E-commerce Project
 The program uses login|register concept as well. At the time of registering you have to specify if you're a seller or a customer then the program will show the options according to it.
