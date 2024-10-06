@@ -179,7 +179,7 @@ def buyer(user):
     print(f"  |Buyer| \nHello {user} Welcome to ecommerce.You can perform following things.")
     while True:
         print("1. View product\n2. Purchase product\n3.View the bill\n4.q to exit")
-        choice = input("Enter your choice 1/2/q: ")
+        choice = input("Enter your choice 1/2/3/q: ")
         if choice == "1":
             view_product()
         elif choice == "2":
